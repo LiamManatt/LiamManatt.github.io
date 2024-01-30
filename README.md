@@ -1,4 +1,4 @@
-#### ML win prediction League of Legends
+# ML win prediction League of Legends
 ## Introduction
 The League of Legends dataset we use in this analysis specifically comes from 2022, titled the "League of Legends Competitive Matches" dataset. This datasets specifically looks at several competitive matches from several leagues throughout the world, collecting important stats such as kils, assists, etc. as well as who the players, teams, and winners were. The dataset was large, containing 123 columns and 149,400 rows.
 
